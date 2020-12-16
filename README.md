@@ -1,0 +1,2 @@
+# Python_mini_projects_for_FCC
+Python_mini_projects_for_FCC
